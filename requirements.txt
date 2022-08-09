@@ -1,6 +1,6 @@
 warnings-plugin==0.0.2
 pandas==1.4.3
-numpy==1.4.3
+numpy==1.23.1
 fbprophet==0.7.1
 prophet==0.0.2
 flask==2.2.2
