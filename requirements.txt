@@ -1,0 +1,2 @@
+numpy cython -c conda-forge
+matplotlib scipy pandas -c conda-forge
