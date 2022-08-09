@@ -1,2 +1,2 @@
-conda install numpy cython -c conda-forge
-conda install matplotlib scipy pandas -c conda-forge
+numpy cython
+matplotlib scipy pandas
