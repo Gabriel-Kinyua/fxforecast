@@ -2,7 +2,7 @@ warnings-plugin==0.0.2
 pandas==1.4.3
 numpy==1.23.1
 fbprophet==0.7.1
-prophet==0.0.2
+prophet==1.0.1
 flask==2.2.2
 render_template==2.2.x
 redirect==
