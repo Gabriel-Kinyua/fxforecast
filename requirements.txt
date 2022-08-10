@@ -8,15 +8,13 @@ template-render==0.1.0
 request==2.0.2
 flask.helpers==0.1
 flash==1.0.3
-plotly.offline==
+plotly==5.9.0
 flask_socketio==5.2.0
 SocketIO==0.2.1
 plotly.graph_objs==0.0.1
 datetime==4.5
 timedelta==2020.12.3
-date==
 tempfile==0.1.1
-TemporaryDirectory==
 matplotlib==1.23.1
 seaborn==3.0.0
 warnings-plugin==0.0.2
