@@ -11,7 +11,6 @@ flash==1.0.3
 plotly==5.9.0
 flask_socketio==5.2.0
 SocketIO==0.2.1
-plotly.graph_objs==0.0.1
 datetime==4.5
 timedelta==2020.12.3
 tempfile==0.1.1
