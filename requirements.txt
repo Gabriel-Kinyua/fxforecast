@@ -5,7 +5,6 @@ fbprophet
 prophet
 flask
 template-render
-request
 flask.helpers
 flash
 plotly
