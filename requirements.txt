@@ -12,7 +12,6 @@ flask_socketio
 SocketIO
 datetime
 timedelta
-tempfile
 matplotlib
 seaborn
 warnings-plugin
