@@ -5,7 +5,7 @@ fbprophet==0.7.1
 prophet==1.0.1
 flask==2.2.2
 template-render==0.1.0
-request==2.0.2
+request2==0.2
 flask.helpers==0.1
 flash==1.0.3
 plotly==5.9.0
