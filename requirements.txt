@@ -4,8 +4,7 @@ numpy==1.23.1
 fbprophet==0.7.1
 prophet==1.0.1
 flask==2.2.2
-render_template==2.2.x
-redirect==
+template-render==0.1.0
 request==2.0.2
 flask.helpers==0.1
 flash==1.0.3
